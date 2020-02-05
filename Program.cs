@@ -12,6 +12,7 @@ namespace strings
 {
     class Program
     {
+        // change 1 for sync
         static void Main(string[] args)
         {
             Console.Write("Type a string and press Enter: ");
